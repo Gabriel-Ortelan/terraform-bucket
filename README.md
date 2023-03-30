@@ -7,6 +7,6 @@ terraform plan -> Criar os recursos que foram configurados<br>
 terraform apply -> Executa
 
 ## Comandos uteis
-terraform validate -> valida se a config e valida
-terraform fmt -> formata o arquivo
+terraform validate -> valida se a config e valida<br>
+terraform fmt -> formata o arquivo<br>
 terraform destroy -> destroi o recurso que foi criado
