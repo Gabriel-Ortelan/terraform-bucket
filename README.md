@@ -1,5 +1,5 @@
-# terraform-bucket
-Script para criar bucket na AWS com Terraform
+# Bucket S3 com Terraform
+Script para criar um bucket na AWS com Terraform
 
 # Comandos
 terraform init -> Criar os recursos do terraform<br>
